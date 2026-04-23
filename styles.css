@@ -5,7 +5,7 @@
 }
 main {
   width: 80%;
-  margin: auto;
+  padding: 10rem;
   display: flex;
   justify-content: space-between;
 }
@@ -16,7 +16,7 @@ header {
   text-align: center;
 }
 .menu {
-  display: flow-root;
+  display: flexbox;
   justify-content: center;
   background-color: #444;
 }
